@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(238, 238, 238);
+  }
+  
+  h1 {
+    color: rgba(7, 13, 20, 0.767);
+    text-align: center;
+  }
+
+  .header {
+      color:rgba(7, 13, 20, 0.767) ;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
